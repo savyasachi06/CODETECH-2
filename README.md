@@ -5,7 +5,7 @@ DOMAIN: C PROGRAMMING
 Duration:november to december 2024
 Mentor: NEELA SANTHOSH
                                                                            
-                                                                                    OVERVIEW OF PROGRAM
+                                                           OVERVIEW OF PROGRAM
 This program demonstrates a temperature conversion tool written in C that takes input from the user in degrees Celsius and converts it to degrees Fahrenheit. It is an introductory-level program that highlights the following key features of C programming:
 
 Key Features:
